@@ -1,0 +1,90 @@
+h1,h2,h3,{
+    margin: 0;
+    padding: 0;
+    
+}
+h2{
+    color: #ac198c;
+    text-align: bottom;
+}
+p{
+    color: #d1263d;
+    font-size: x-large;
+}
+body{
+    background-image: url("tip.PNG");
+    background-position: center;
+}
+p{
+    font-size: larger;
+    color: darkslateblue;
+    font-style: unset;
+}
+header{
+    background-color: #223;
+    color: #f3ff;
+    padding: 10px;
+    text-align: center;
+}
+#search{
+    width: 80%;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    background-color: #f0f;
+}
+button{
+    color: #f0f;
+    background-color: #333;
+    width: 15%;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+.container{
+    max width:450px;
+    margin:focus-visible;
+    padding:20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between
+    
+    ;
+    
+}
+.video{
+    width:auto ;
+    margin-bottom: 10px;
+    background-color: #0e1846;
+    padding: 10px;
+    box-shadow: 0 0 8px rgba(226, 64, 218, 0.993);
+}
+video{
+    width: 100%;
+    height: auto;
+}
+.video-title{
+    font-family: serif;
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.download-link{
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #4e083f;
+    color: #f0f0f0;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.download-link:hover{
+    background-color: #ac198c;
+}
+p{
+    color:antiquewhite;
+    text-align: center;
+    text-shadow: #f0f;
+
+}
